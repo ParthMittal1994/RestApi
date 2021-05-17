@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "-Dlogging.level.org.springframework",
+    "type": "java.lang.String",
+    "description": "A description for '-Dlogging.level.org.springframework'"
+  },
+  {
+    "name": "-Dlogging.level.com.howtodoinjava",
+    "type": "java.lang.String",
+    "description": "A description for '-Dlogging.level.com.howtodoinjava'"
+  }
+]}
